@@ -5,11 +5,11 @@
 There are two programs that are not yet integrated. From the root directory run:
 
 ```sh
-(stocks) jglossner@jglossner:~/GitRepos/AI-Agent-Stock-Prediction$ streamlit run src/UI/app.py
+(stocks) jglossner@jglossner:~/GitRepos/StockPrediction-AiAgent$ streamlit run src/UI/app.py
 ```
 or
 ```sh
-(stocks) jglossner@jglossner:~/GitRepos/AI-Agent-Stock-Prediction$ python -m src.UI.scenario
+(stocks) jglossner@jglossner:~/GitRepos/StockPrediction-AiAgent$ python -m src.UI.scenario
 ```
 
 Typical scenario prediction output
